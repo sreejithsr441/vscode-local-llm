@@ -1,0 +1,13 @@
+// VS Code settings from the video. Copy what you need into your user settings
+// (Command Palette → "Preferences: Open User Settings (JSON)"). VS Code settings files allow comments.
+{
+  // Step 4: VS Code uses a small cloud model for utility jobs (chat titles, summaries).
+  // Both default to "Default" (GitHub Copilot's built-in utility model). Set them to your local model:
+  // easiest from the Settings UI: search "utility model" and pick your Ollama model in both drop-downs,
+  // which writes the right value here for you.
+  //   "chat.utilityModel": "<pick in Settings UI>",
+  //   "chat.utilitySmallModel": "<pick in Settings UI>",
+
+  // Optional: VS Code usage telemetry off (telemetry isn't your code, but people ask).
+  "telemetry.telemetryLevel": "off"
+}
