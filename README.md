@@ -21,7 +21,7 @@ Why two? VS Code's docs say: *"Currently, you cannot connect to a local model fo
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_GITHUB/ring-zero-examples.git
+git clone https://github.com/YOUR_GITHUB/ring-zero-examples.git](https://github.com/sreejithsr441/vscode-local-llm.git
 cd ring-zero-examples/vscode-local-llm
 ./setup.sh          # checks your Mac, pulls the chat model for your RAM, installs both extensions
 ./verify.sh         # one chat call + one autocomplete call, prints how long each took
